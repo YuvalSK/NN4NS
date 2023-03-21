@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar 21 14:39:15 2023
+@author: Yuvi
 
-@author: User
+see another implementation:
+    https://www.youtube.com/watch?v=t2ym2a3pb_Y
+
 """
 
 from sklearn.datasets import load_digits
